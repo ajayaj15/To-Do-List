@@ -1,0 +1,43 @@
+.text-color{
+  color: #13AD89;
+}
+
+.buttonSizing{
+  padding: 5px 25px;
+    background: #13ad89;
+    border: #13ad89;
+}
+
+.card-background{
+  background: #CBF4D2;
+}
+
+.editButton{
+  background: #13ad89;
+  padding: 5px 25px;
+}
+
+.deleteButton{
+  background: #CF5E1F;
+  padding: 5px 25px;
+}
+
+.custom-select-width {
+  width: 150px;
+}
+
+.custom-select-width-filter{
+  width: 150px;
+}
+
+.custom-select-background {
+  background-color: #FC8181;
+  color: #fff;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none; 
+  background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%204%205%27%3E%3Cpath%20fill%3D%27%23000%27%20d%3D%27M2%205L0%203h4L2%205z%27/%3E%3C/svg%3E');
+  background-repeat: no-repeat;
+  background-position: right 20px center; 
+  padding-right: 20px; 
+}
